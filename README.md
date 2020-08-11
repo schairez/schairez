@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<h1 align="center"> Hi there 👋 I'm Sergio </h1> 
 
 <p align="center">
     <a href="https://twitter.com/sergii_chairez"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
