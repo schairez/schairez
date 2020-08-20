@@ -8,9 +8,12 @@
 
 
 
+### Currently...
 
-
-
+- 🔭 I’m currently job seeking and am building my passion projects housed here. 
+- 🌱 I’m currently learning Backend Web Services with Go.
+- 👯 I’m looking to collaborate on OSS. If any of my active projects interest you, make sure to ping me.
+ 
 
 <!--
 **schairez/schairez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
