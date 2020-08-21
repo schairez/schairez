@@ -7,6 +7,11 @@
   </p>
 
 
+### About Me
+- fullstack SWE interested in backend web services, building UIs, and  data pipelines.
+-  mainly 👨‍💻: go, py, js, java
+
+
 
 ### Currently...
 
